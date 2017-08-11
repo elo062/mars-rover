@@ -1,0 +1,13 @@
+{
+    "name": "elo/mars-rover",
+    "authors": [
+        {
+            "name": "elo",
+            "email": "eloisemecozzi@hotmail.fr"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
